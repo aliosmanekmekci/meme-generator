@@ -1,4 +1,11 @@
-# React + Vite
+# Meme Generator with React + Vite
+
+This project was developed with Scrimba React training thanks to Bob Ziroll.
+
+Project Link:
+
+https://meme-generator-nine-omega.vercel.app/
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
